@@ -1,4 +1,4 @@
-Certainly! Here's an explanation for your README file:
+
 
 # Real-time-Counter Project
 
